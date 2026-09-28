@@ -19,7 +19,7 @@ vnet_name                    = "vnet-contactcenter-prod-eastus-01"
 private_endpoint_subnet_name = "snet-prod-eastus-003"
 
 # Private Endpoint
-private_endpoint_name           = "pe-stapp-contactcenter-prod-eus-01-nic
+private_endpoint_name           = "pe-stapp-contactcenter-prod-eus-01-nic"
 private_service_connection_name = "psc-stapp-contactcenter-prod-eus-01"
 
 # Private DNS
