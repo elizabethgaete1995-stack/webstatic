@@ -1,9 +1,9 @@
 # Suscripción distinta a la del APIM
-static_web_app_subscription_id = "Contact-Center-Prod"
+static_web_app_subscription_id = "aa6d37f7-7232-4c11-9b97-75f70d398786"
 
 # Si la VNet está en la misma suscripción que la Static Web App,
 # usa aquí el mismo Subscription ID.
-network_subscription_id = "Contact-Center-Prod"
+network_subscription_id = "aa6d37f7-7232-4c11-9b97-75f70d398786"
 
 # Static Web App
 static_web_app_resource_group_name = "rg-contactcenter-prod-eastus-01"
